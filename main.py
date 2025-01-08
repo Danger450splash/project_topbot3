@@ -27,7 +27,7 @@ class AutomaticMachineTeller(AbstractClass): # Class Instance
     def program(self):
         print(f'[Program] ATM Program Activated.')
         print(f'You are now in control.')
-        print(f'We are now ready.')
+        print(f'We are now ready [2]')
 
     def __menu(self) -> None: # Instance Method 1
         print("\n")
